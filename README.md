@@ -43,3 +43,5 @@ Submit your solution on the provided platform.
 Evaluation
 
 The submissions will be evaluated based on the score calculated using the mean absolute percentage error (MAPE) metric. The score can be between 0 and 100, and a higher score indicates better performance. The top submissions will be announced as winners of the hackathon.
+
+Datasets Link : https://drive.google.com/drive/folders/1QELVVIzUhNZqZ4RAVBTmVB5Cq9FbsFCv?usp=sharing
